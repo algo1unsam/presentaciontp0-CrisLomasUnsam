@@ -1,26 +1,16 @@
 # Presentación
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Suban una foto.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
+![1main-qimg-a75f048544f989d822dc110226ca494c](https://github.com/algo1unsam/presentaciontp0-CrisLomasUnsam/assets/125772463/5c2ba465-22bf-4f89-8944-b5dea352a356)
+ 
 
-Ya saben usar git!
+## Estudiante: Cristian Lomas
 
+### Descripción
 
-## Estudiante: Nombre estudiante
+Trabajo como programador de C# hace poco menos de 1 año... Hasta ahora, lo que sé lo aprendí en su mayoría por mi cuenta.
 
-Descripción
+### Foto de mi persona:
 
-Foto de mi persona:
+![Rio](https://github.com/algo1unsam/presentaciontp0-CrisLomasUnsam/assets/125772463/9d26361f-9c60-42fe-84a2-e5a81ebafee6)
 
-![d](https://media.istockphoto.com/id/1423183219/es/vector/la-pelusa-de-diente-de-le%C3%B3n-vuela-lejos-del-viento.jpg?s=612x612&w=0&k=20&c=nSMyODf20H4HZxTyGNmsbY1FNsnU0irg0d-4XI94ZsM=)
-
-Diente de Leon
-
-------
-
-Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
 
